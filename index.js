@@ -1,3 +1,3 @@
-console.error("Help")
+console.error("There is an error")
 console.log("Error")
-console.warn("There may be an error")
+console.warn("Becareful")
